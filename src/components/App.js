@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 import NavBar from './NavBar'
-import { Route, BrowserRouter, Redirect } from 'react-router-dom'
+import { Route, BrowserRouter } from 'react-router-dom'
 import LoadingBar from 'react-redux-loading'
 import { handleInitialData } from '../actions/shared'
 import { connect } from 'react-redux'
