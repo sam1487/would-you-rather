@@ -2,7 +2,7 @@
 
 Sumbission for the WouldYouRather... Udacity project
 
-## TL;DR
+## Setup
 
 To get it running:
 
